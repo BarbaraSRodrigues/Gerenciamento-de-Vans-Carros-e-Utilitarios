@@ -17,5 +17,5 @@ operações de busca:
 - busca de algum veículo pela placa, com opção de exclusão quando o veículo for encontrado;
 
 - busca dos 10 veículos mais próximos: o usuário deverá entrar com um valor de compra e o resultado deve ser no máximo os 10 veículos com valores mais próximos, na ordem do mais próximo até o mais distante do valor;
-- 
+ 
 a operação de ordenação consiste em criar um segundo vetor de ponteiros de registros (structs) de 50 posições que aponta para os registros já alocados na leitura do arquivo-texto mas na ordem crescente indicados pelas placas dos veículos.
