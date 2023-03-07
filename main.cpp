@@ -55,6 +55,7 @@ int remove(Tveiculo *bd[], int tam, string x)
         {
             bd[j] = bd[j+1]; // Escreve o banco de dados novamente, escrevendo por cima da struct que sera removida 
         }
+     delete(bd[j]);
         return 0;
     }    
 }
