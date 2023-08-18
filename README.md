@@ -1,5 +1,5 @@
 # Gerenciamento-de-vans-carros-e-utilitarios
-Trabalho feito em C++ para a matéria de Algoritmo e Estrutura de Dados II, onde a nota foi 90 de 100. Esse repositório está com correções feitas no código para atingir a nota máxima.
+Trabalho feito para a matéria de Algoritmo e Estrutura de Dados II, utiliza arrays e trabalha com ponteiros para criar um sistema de gerenciamento de carros e utilitários, onde é possível fazer operações básicas. 
 
 
 **Objetivo:** adquirir conhecimentos de manipulação de lista com alocação contínua (vetores) numa aplicação que manipula informações de veículos de um site de busca para compra e venda.
